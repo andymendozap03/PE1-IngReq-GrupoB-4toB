@@ -1,1 +1,5 @@
-# PE1-IngReq-GrupoB-4toB
+# IngReq-GrupoB-4toB  
+Grupo B - 4to Software "B"  
+CEDEÑO AVILA WINSTON DAMIAN<br>
+CORDOVA CARREÑO MAYRA LUCILA<br>
+MENDOZA PARRAGA ANDY JOHEL
